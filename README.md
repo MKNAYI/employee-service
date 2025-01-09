@@ -1,4 +1,4 @@
-# Test-Assignment
+# Employee-service
 
 ## Prerequisites
 
@@ -7,6 +7,8 @@ Before you begin, make sure you have the following installed:
 - Java 21
 - Maven 
 - IDE - IntelliJ IDEA
+- MongoDB - Database schema
+  Download: (Windows machine) https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.0.4-signed.msi
 
 ## Getting Started
 
@@ -15,7 +17,7 @@ Before you begin, make sure you have the following installed:
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/kishan1304/Test-Assignment.git
+git clone https://github.com/MKNAYI/employee-service.git
 
 ```
 
