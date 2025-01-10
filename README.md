@@ -49,3 +49,6 @@ curl --location 'localhost:8080/employees' \
     "salary": 10000
 }'
 ```
+
+### Postman collection 
+[Download file](../../raw/master/CRUD-with-MongoDB.postman_collection.json)
